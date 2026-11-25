@@ -13,4 +13,5 @@ A simple and responsive web application that allows users to add, view, search, 
 - [Original Client Brief](docs/client-brief.pdf)
 - [Application Plan](docs/application-plan.pdf)
 - [CommunicationLog](docs/communicationlog.pdf)
-- [Wireframes](docs/wireframesLo-Fi-Figma.pdf)
+- [Mobile Wireframes](docs/mobile-wireframes-Figma.pdf)
+- [Desktop Wireframes](docs/desktop-wireframes-Figma.pdf)
